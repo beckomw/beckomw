@@ -2,7 +2,7 @@
 
 ### I also write 3D/2D applications with SMFL, Raylib, and SDL for Web Design projects that require graphics for an ad or content. If you can picture we can create it. 
 
-- 🔭 I’m currently working on my my Sales & Software consultancy providing cold calling and lead generation with CRM consultations. 
+- 🔭 I’m working on my my Sales & Software consultancy providing cold calling and lead generation with CRM consultations. Ask me how I can help your business. 
 - 🌱 I’m currently studying for my COMPTIA Linux + Exam and contributing to freelance jobs in COBOL and Web Design. 
 - 💬 Ask me about how I can help your design or business thrive and grow. 
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/beckomw/)
