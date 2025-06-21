@@ -1,6 +1,8 @@
-### Hi I'm Wayne, I'm a Software Engineer with a focus on business solutions. I originally started my career as a sales and recruiting consultant for a well-known international agency. As much as I loved sales and recruiting I knew my passion was with Software & Technology. I now focus on learning Information Systems, System Design and Backend Software Development. Whether I'm creating a front-end for a business solution to ensure the application is collecting the most information in the most efficient way for your database. 
+#### Hi I'm Wayne, I'm a Software Engineer with a focus on business solutions. I originally started my career as a sales and recruiting consultant for a well-known international agency. As much as I loved sales and recruiting I knew my passion was with Software & Technology. I now focus on learning Information Systems, System Design and Backend Software Development. 
 
-### I also write 3D/2D applications with SMFL, Raylib, and SDL for Web Design projects that require graphics for an ad or content. If you can picture we can create it. 
+#### Whether I'm creating a front-end for a business solution to ensure the application is collecting the most information in the most efficient way for your database. 
+
+#### I also write 3D/2D applications with SMFL, Raylib, and SDL for Web Design projects that require graphics for an ad or content. If you can picture we can create it. 
 
 - 🔭 I’m working on my my Sales & Software consultancy providing cold calling and lead generation with CRM consultations. Ask me how I can help your business. 
 - 🌱 I’m currently studying for my COMPTIA Linux + Exam and contributing to freelance jobs in COBOL and Web Design. 
