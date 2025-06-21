@@ -2,7 +2,7 @@
 
 #### Whether I'm creating a front-end for a business solution to ensure the application is collecting the most information in the most efficient way for your database. 
 
-#### I also write 3D/2D applications with SMFL, Raylib, and SDL for Web Design projects that require graphics for an ad or content. If you can picture we can create it. 
+#### I also write 3D/2D applications with libraries or openGL for Web Design projects that require graphics for an ad or content. If you can picture we can create it. 
 
 - 🔭 I’m working on my Sales & Software consultancy providing cold calling and lead generation with CRM consultations. Ask me how I can help your business. 
 - 🌱 I’m currently studying for my COMPTIA Linux + Exam and contributing to my business.
