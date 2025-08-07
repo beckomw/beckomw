@@ -1,4 +1,4 @@
-#### Hi I'm Wayne, I'm a Software Engineer with a focus on business solutions. I originally started my career as a sales and recruiting consultant for a well-known international agency. As much as I loved sales and recruiting I knew my passion was with Software & Technology. I now focus on learning Information Systems, System Design and Backend Software Development. 
+#### Hi I'm Wayne, I'm a Software Developer with a focus on business solutions. I originally started my career as a sales and recruiting consultant for a well-known international agency. As much as I loved sales and recruiting I knew my passion was with Software & Technology. I now focus on learning Information Systems, System Design and Backend Software Development. 
 
 #### Whether I'm creating a front-end for a business solution to ensure the application is collecting the most information in the most efficient way for your database. 
 
