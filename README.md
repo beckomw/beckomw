@@ -4,7 +4,8 @@
 
 #### I also write 3D/2D applications for Web Design projects that require graphics for an ad or content. If you can picture it we can create it. 
 
-- 🔭 I’m working on my Sales & Software consultancy providing cold calling and lead generation with CRM consultations. Ask me how I can help your business. 
+- 🔭 I’m working on my Sales & Software consultancy providing cold calling and lead generation with CRM consultations. Ask me how I can help your business.
+- I also translate products from spanish to english for GTM teams. 
 - 🌱 I’m currently studying for my COMPTIA Linux + Exam and finishing my undergraduate degree. 
 - 💬 Ask me about how I can help your design or business thrive and grow. 
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/beckomw/)
