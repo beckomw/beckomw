@@ -1,8 +1,6 @@
-#### Hi I'm Wayne, I'm a Software Developer with a focus on business solutions. I originally started my career as a sales and recruiting consultant for a well-known international agency. As much as I loved sales and recruiting I knew my passion was with Software & Technology. I now focus on learning Information Systems, System Design and Backend Software Development. 
+#### Hi I'm Wayne, I'm a Software Developer with a focus on business solutions. I originally started my career as a sales and recruiting consultant for a well-known international agency. As much as I loved sales and recruiting I knew my passion was with Software & Technology. I now focus on learning Information Systems, System Design and Full Stack Software Development. 
 
-#### Whether I'm creating a front-end for a business solution to ensure the application is collecting the most information in the most efficient way for your database. 
 
-#### I also write 3D/2D applications for Web Design projects that require graphics for an ad or content. If you can picture it we can create it. 
 
 - 🔭 I’m working on my Sales & Software consultancy providing cold calling and lead generation with CRM consultations. Ask me how I can help your business.
 - 🌱 I’m currently studying for my COMPTIA Linux + Exam and finishing my undergraduate degree. 
