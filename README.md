@@ -1,7 +1,7 @@
 
 # Embark Software & Video 
 
-![Embark](/Capture.PNG)
+<img src="image.jpg" style="width:300px;" >
 
 ## A Digital Agency That Does More
 
