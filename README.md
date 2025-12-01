@@ -5,7 +5,36 @@
 - 🔭 I’m working on my Sales & Software consultancy providing cold calling and lead generation with CRM consultations. 
 - 🌱 I’m currently studying for my COMPTIA Linux + Exam and finishing my undergraduate degree. 
 - 💬 Ask me about how I can help your design or business thrive and grow. 
+
+
+# Embark Software & Video - 
+
+## A Web Design That Does More
+
+**Embark Software & Digital** is a leading independent digital solutions firm specializing in strategic web design, custom development, IT consulting, and comprehensive digital transformation. Founded in 2015, we combine creative excellence with technical expertise to deliver world-class solutions that drive measurable business results for clients across 15+ countries. Our client-focused approach and commitment to innovation have made us a trusted partner for organizations seeking to elevate their digital presence and transform their operations.
+
+We offer end-to-end digital services including user-centered web design, enterprise-grade application development, cloud migration and infrastructure optimization, cybersecurity assessment, and complete organizational transformation initiatives. Our multidisciplinary team of designers, developers, and consultants leverage modern frameworks and proven methodologies to create scalable, secure solutions built to perform. From Fortune 500 companies to growing startups, we help businesses navigate complex technology challenges and unlock new capabilities in the digital economy.
+
+Our culture is built on core values of excellence, integrity, innovation, and partnership. We invest heavily in our people through continuous learning opportunities, mentorship programs, and a collaborative environment that fosters professional growth. With over 250 projects delivered and a 98% client satisfaction rate, we've established ourselves as a firm that doesn't just build technology—we create strategic solutions that align with business objectives and deliver lasting value.
+
+---
+
+## Services
+
+- **Strategic Web Design** - User-centered design that drives conversions
+- **Custom Development** - Enterprise-grade applications built to scale
+- **IT Consulting & Strategy** - Expert guidance on technology decisions
+- **Digital Transformation** - End-to-end organizational modernization
+
+## Contact
+
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/beckomw/)
+
+---
+
+*Client-Focused, Innovation-Driven.*
+
+
 
 ---
 
