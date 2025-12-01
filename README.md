@@ -10,9 +10,10 @@
 
 ## A Digital Agency That Does More
 
-**Embark Software & Video** is an independent digital solutions firm specializing in strategic web design, video & content creation, IT consulting, and comprehensive digital transformation. We combine creative excellence with technical expertise to deliver world class solutions that drive measurable business results for clients. Our client focused approach and commitment to innovation have made us a trusted partner for organizations seeking to elevate their digital presence and transform their operations.
-
-Our culture is built on core values of excellence, integrity, innovation, and partnership. We invest heavily in our people through continuous learning opportunities, mentorship programs, and a collaborative environment that fosters professional growth. We've established ourselves as a firm that doesn't just build technology we create strategic solutions that align with business objectives and deliver lasting value. Using free open source initiatives we pass the savings down to the consumer. 
+**Embark Software & Video** is a freelance digital solutions practice focused on helping businesses establish and enhance their online presence. I specialize in web development, video production, and digital strategy, working with clients who need quality work without enterprise-level budgets.
+My approach combines creative problem-solving with practical technical skills to build websites, create content, and provide IT consulting that actually makes sense for small to mid-sized organizations. I leverage open-source technologies whenever possible to keep costs reasonable while delivering professional results.
+I'm building this practice from the ground up, bringing experience in sales and recruiting to understand what clients really need and how to communicate effectively throughout projects. Whether you're looking for a new website, promotional video content, or help navigating digital transformation, I focus on delivering solutions that work for your business and your budget.
+Currently growing my portfolio and client base—let's connect if you're looking for a collaborative partner who's invested in your success.
 
 ---
 
