@@ -1,7 +1,7 @@
 
 # Embark Software & Video 
 
-<img src="Capture.PNG" width="300" alt="embark"> 
+<img src="Capture.PNG" width="399" alt="embark"> 
 
 ## A Digital Agency That Does More
 
