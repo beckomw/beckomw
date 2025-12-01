@@ -7,7 +7,9 @@
 - 💬 Ask me about how I can help your design or business thrive and grow. 
 
 
-# Embark Software & Video - 
+# Embark Software & Video 
+
+![Embark](/Capture.png)
 
 ## A Web Design That Does More
 
