@@ -1,7 +1,7 @@
 #### Hi I'm Wayne, I'm a Software Developer with a focus on business solutions. 
 
 - 🔭 I’m working on my Sales & Software consultancy providing cold calling, web design, google ads and lead generation with CRM consultations. 
-- 💬 Ask me about how I can help your business thrive and grow. 
+- 💬 Ask me about how I can help your business thrive. 
 
 
 # Embark Software & Video 
