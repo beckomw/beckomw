@@ -10,7 +10,7 @@
 
 ![Embark](/Capture.PNG)
 
-## A Web Design That Does More
+## A Digital Agency That Does More
 
 **Embark Software & Video** is an independent digital solutions firm specializing in strategic web design, video & content creation, IT consulting, and comprehensive digital transformation. We combine creative excellence with technical expertise to deliver world class solutions that drive measurable business results for clients across 15+ countries. Our client focused approach and commitment to innovation have made us a trusted partner for organizations seeking to elevate their digital presence and transform their operations.
 
