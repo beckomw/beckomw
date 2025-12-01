@@ -9,7 +9,7 @@
 
 # Embark Software & Video 
 
-![Embark](/Capture.png)
+![Embark](/Capture.PNG)
 
 ## A Web Design That Does More
 
