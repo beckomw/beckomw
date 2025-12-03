@@ -1,7 +1,7 @@
 
 # Embark Software & Video 
 
-<a href="https://embarksoftware.tech"> <img src="Capture.PNG" width="399" alt="embark"> </>
+<a href="https://embarksoftware.tech"><img src="Capture.PNG" width="399" alt="embark"></>
 
 ## A Digital Agency That Does More
 
